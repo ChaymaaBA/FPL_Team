@@ -1,4 +1,4 @@
-# Fantasy Premier League (FPL) Team Recommendation
+# Fantasy Premier League (FPL) Team Recommendation 2024/2025 GW1-->GW22
 
 ## Overview
 This project uses Python and optimization techniques to recommend the best Fantasy Premier League (FPL) team based on current season data. It includes:
